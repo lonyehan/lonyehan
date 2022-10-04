@@ -2,8 +2,6 @@ Hi, I'm lonyehan!
 
 I am a Backend Developer in Taiwan.
 
-I love learing new technology and skills of web.
-
 Feel free to contact with me, we can share our knowledge to change this world.
 
 ## 🤓 My values
